@@ -1,7 +1,11 @@
 Tested for compatibility in Chrome
 
 ## Install
-* _npm i_
+* npm i
 
-## Build
-* _npm run build_
+## Run linters
+* npm run lint
+
+## Build project
+* npm run build
+
