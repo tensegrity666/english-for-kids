@@ -1,12 +1,12 @@
-# https://tensegrity666-english-for-kids.netlify.app/
+## https://tensegrity666-english-for-kids.netlify.app/
 
 Tested for compatibility in Chrome
 
-## Install
+### Install
 * npm i
 
-## Run linters
+### Run linters
 * npm run lint
 
-## Build project
+### Build project
 * npm run build
