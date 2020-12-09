@@ -1,11 +1,9 @@
 * [Link to task](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rslang/english-for-kids.md)
-* [Link to repo](https://github.com/rolling-scopes-school/tensegrity666-RS2020Q1/tree/english-for-kids/english-for-kids)
 * [Screenshot](https://yadi.sk/d/VHwvBLEFd6r5OQ
 )
 * https://tensegrity666-english-for-kids.netlify.app
 * Deadline: 19.04.2020 23:59
 * Total:
-[Link to documentation](https://github.com/rolling-scopes-school/tensegrity666-RS2020Q1/blob/english-for-kids/english-for-kids/documentation.md)
 
 * реализован дополнительный, не предусмотренный заданием функционал. Не оценивается, но, если можете сделать лучше, почему бы и нет.
 _почти все элементы интерфейса в режиме тренировки доступны с клавиатуры (не реализован обратный поворот карточек и проигрывание звука, это требует отдельной обработки событий), навигация по сайту возможна с клавиатуры_
